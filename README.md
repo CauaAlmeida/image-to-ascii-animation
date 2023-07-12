@@ -3,8 +3,6 @@
 This is a Python script that converts images to ASCII art and plays them as an animation. The script utilizes the Python Imaging Library (PIL) to process the images and generate the ASCII representation.
 
 ## TOC
-
-=================
 <!--ts-->
    * [Requirementes](#Requirements)
    * [Usage](#Usage)
@@ -16,8 +14,8 @@ This is a Python script that converts images to ASCII art and plays them as an a
 <!--te-->
 
 ## Requirements
-Python 3.x
-PIL (Python Imaging Library)
+- Python 3.x
+- PIL (Python Imaging Library)
 
 ## Usage
 1. Make sure you have Python installed on your system.
@@ -72,6 +70,8 @@ In this example, the script is imported as a module, and the play_ascii_animatio
 ## Contributing
 Contributions to this repository are welcome. If you find any issues or want to propose improvements, feel free to create a pull request or submit an issue.
 
+
+## License
 VIRAL PUBLIC LICENSE
 Copyleft (ɔ) All Rights Reversed
 
