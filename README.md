@@ -11,6 +11,8 @@ This is a Python script that converts images to ASCII art and plays them as an a
       * [play_ascii_animation(folder_path)](#play_ascii_animation(folder_path))
    * [Example](#Example)
    * [Contributing](#Contributing)
+   * [License](#License)
+   * [Results](#Results)
 <!--te-->
 
 ## Requirements
@@ -81,6 +83,7 @@ This WORK is hereby relinquished of all associated ownership, attribution and co
 2. No further restrictions of ANY kind may be applied.
 
 
+## Results
 
 https://user-images.githubusercontent.com/60367135/200193332-058798fb-6775-4295-81c7-01f764a7c69a.mp4
 
